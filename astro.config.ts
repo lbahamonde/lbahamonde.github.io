@@ -11,9 +11,7 @@ import { spectreDark } from './src/ec-theme';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://lbahamonde.github.io',
-  base: '/',
   output: 'static',
-  outDir: './docs',
   integrations: [
     expressiveCode({
       themes: [spectreDark],
