@@ -16,5 +16,14 @@
    },
    "text": "LinkedIn",
    "link": "https://www.linkedin.com/in/lbahamonde/"
+  },
+  {
+   "id": 3,
+   "icon": {
+      "type": "lucide",
+      "name": "graduation-cap"
+   },
+   "text": "Google Scholar",
+   "link": "https://scholar.google.com/citations?hl=en&user=Q-Ymo7oAAAAJ"
   }
 ]
