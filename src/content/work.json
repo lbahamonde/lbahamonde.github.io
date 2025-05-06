@@ -1,9 +1,30 @@
 [
+{
+ "id": 1,
+ "duration": "03/2014 - 02/2015",
+ "company": "Airbus",
+ "title": "Flight Physics Trainee",
+ "description": "Automated wind tunnel and flight test data modeling for: (i) HTP of A350XWB-900 and (ii) HTP and auxiliary fins of BelugaXL. Worklfow involved parsing data from multiple formats (XML, CDF, in-house text formats) and system identification of aerodynamic models using MATLAB."
+},
+{
+ "id": 2,
+ "duration": "08/2019 - 09/2021",
+ "company": "Arris Composites",
+ "title": "R&D Software Engineer III",
+ "description": "Developed simulation tools for additive molding. These tools ranged from a patent-pending topology optimization code to Abaqus plugins. Among others, used these tools for Northtrop Grumman and Airbus brackets."
+},  
+{
+   "id": 3,
+   "duration": "09/2021 - 11/2022",
+   "company": "Arris Composites",
+   "title": "R&D Advanced Simulations Manager",
+   "description": "Built a team of 2 (including me) to develop and run simulation workflows for some of our most demanding customers in Silicon Valley on products that included composite phone enclosures, watch enclosures, AR/VR frames and footwear. Among them a solver-neutral workflow that translates composite material and fiber orientation cards from Abaqus to customer preferred FEA data."
+  },
   {
-    "id": 1,
-    "duration": "2024 - present",
-    "company": "Astro Community",
-    "title": "Astro Theme",
-    "description": "Existing as an Astro theme for anyone to use."
+    "id": 4,
+    "duration": "12/2022 - present",
+    "company": "Magic Leap",
+    "title": "Sr. Research Engineer, Experimental Mechanics",
+    "description": "Currently standing up a Digital Image Correlation lab."
   }
 ]
